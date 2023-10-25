@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Application - Notion
 
-## Getting Started
+Check the
+[backend here](https://github.com/matheusjustino/notion-backend-csharp)!
 
-First, run the development server:
+## Resume
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+    This is Notion app clone.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Information
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**In this project were used:**
+**`NextJs, NextAuth, TailwindCSS, Shadcn-ui, Zustand and EdgeStore`**. **as main
+tools and technologies.**
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Application Screenshots
 
-## Learn More
+![Home](./screenshots/01.png)
 
-To learn more about Next.js, take a look at the following resources:
+![Home - Dark](./screenshots/11.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Home - Login](./screenshots/02.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Home - Register](./screenshots/03.png)
 
-## Deploy on Vercel
+![Home - Logged](./screenshots/04.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Main](./screenshots/05.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![New Note](./screenshots/06.png)
+
+![Note Edited](./screenshots/07.png)
+
+![Note Edited - Dark](./screenshots/12.png)
+
+![Note Deleted](./screenshots/08.png)
+
+![Note Publishing](./screenshots/09.png)
+
+![Note Published](./screenshots/10.png)
